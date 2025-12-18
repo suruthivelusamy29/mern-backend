@@ -20,6 +20,7 @@
     "jsonwebtoken": "^9.0.3",
     "limit": "^0.0.1",
     "mongoose": "^9.0.1",
+    "nodemailer": "^6.x.x",
     "rate": "^0.1.1"
   }
 }
